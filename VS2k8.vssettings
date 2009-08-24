@@ -76,27 +76,24 @@
 							<Item Name="HTML Operator" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Tag Delimiter" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00A881AD" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Operator" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
-							<Item Name="Preprocessor Keyword" Foreground="0x000098FF" Background="0x02000000" BoldFont="Yes"/>
-							<Item Name="ReSharper Hint" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
-							<Item Name="ReSharper Hyperlink" Foreground="0x0000D4ED" Background="0x02000000" BoldFont="No"/>
-							<Item Name="ReSharper Matched Brace" Foreground="0x02000000" Background="0x002A2A2A" BoldFont="No"/>
-							<Item Name="ReSharper Warning" Foreground="0x000098FF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x0000D4ED" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Track Changes after save" Foreground="0x02000000" Background="0x000CD9C4" BoldFont="No"/>
 							<Item Name="Track Changes before save" Foreground="0x02000000" Background="0x00A881AD" BoldFont="No"/>
-							<Item Name="User Types" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
-							<Item Name="User Types(Delegates)" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
-							<Item Name="User Types(Enums)" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
-							<Item Name="User Types(Interfaces)" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
-							<Item Name="User Types(Value types)" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Quotes" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Attribute Value" Foreground="0x0000D4ED" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Comment" Foreground="0x008A8A8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Delimiter" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Class" Foreground="0x00A881AD" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x0000D4ED" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Name" Foreground="0x00A881AD" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Text" Foreground="0x00EFEFEF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Quotes" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Attribute Value" Foreground="0x0000D4ED" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Comment" Foreground="0x008A8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Delimiter" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XML Doc Comment" Foreground="0x008A8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Keyword" Foreground="0x00A881AD" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Name" Foreground="0x00A881AD" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Text" Foreground="0x00EFEFEF" Background="0x02000000" BoldFont="No"/>

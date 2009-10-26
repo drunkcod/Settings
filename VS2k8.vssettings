@@ -62,10 +62,12 @@
 							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 						</Items>
 					</Category>
-					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="9" CharSet="0" FontIsDefault="No">
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Consolas" FontSize="17" CharSet="0" FontIsDefault="No">
 						<Items>
 							<Item Name="Plain Text" Foreground="0x00EFEFEF" Background="0x002A2A2A" BoldFont="No"/>
 							<Item Name="Line Numbers" Foreground="0x008A8A8A" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Brace Matching (Highlight)" Foreground="0x008454A7" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x002A2A2A" BoldFont="No"/>
 							<Item Name="Comment" Foreground="0x008A8A8A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Compiler Error" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Attribute" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
@@ -76,9 +78,15 @@
 							<Item Name="HTML Operator" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="HTML Tag Delimiter" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Keyword" Foreground="0x00A881AD" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x003EAFFC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Preprocessor Keyword" Foreground="0x003083FE" Background="0x02000000" BoldFont="No"/>
 							<Item Name="String" Foreground="0x0000D4ED" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Track Changes after save" Foreground="0x02000000" Background="0x000CD9C4" BoldFont="No"/>
 							<Item Name="Track Changes before save" Foreground="0x02000000" Background="0x00A881AD" BoldFont="No"/>
+							<Item Name="User Types" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="User Types(Delegates)" Foreground="0x00AC6C78" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Interfaces)" Foreground="0x000DD9C4" Background="0x02000000" BoldFont="No"/>
+							<Item Name="User Types(Value types)" Foreground="0x003EAFFC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Attribute" Foreground="0x00D9ADB1" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Attribute Quotes" Foreground="0x000CD9C4" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Attribute Value" Foreground="0x0000D4ED" Background="0x02000000" BoldFont="No"/>

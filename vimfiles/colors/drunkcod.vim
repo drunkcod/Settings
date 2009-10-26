@@ -23,7 +23,7 @@ let g:colors_name="drunkcod"
 hi Normal guifg=#efefef guibg=#2A2A2A
 
 " highlight groups
-hi Cursor       guibg=#531c3c guifg=#ba3f86
+hi Cursor       guibg=#733c5c guifg=#ba3f86
 hi CursorLine	guibg=#303030
 hi CursorColumn	guibg=#464646
 
@@ -60,9 +60,9 @@ hi Title		guifg=#ef5939
 hi WarningMsg	guifg=#ef5939
 hi Number		guifg=#fcaf3e
 
-hi MatchParen	guibg=#ad7fa8 guifg=#FFFFFF
-hi Comment		guifg=#8a8a8a
-hi Constant		guifg=#ef5939 gui=none
+hi MatchParen	guibg=#2a2a2a guifg=#ba3f86 gui=italic
+hi Comment	guifg=#8a8a8a
+hi Constant	guifg=#ef5939 gui=none
 hi String       guifg=#edd400
 hi Identifier	guifg=#729fcf
 hi Statement	guifg=#ad7fa8

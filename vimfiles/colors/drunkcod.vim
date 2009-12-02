@@ -18,15 +18,20 @@ if version > 580
 	syntax reset
     endif
 endif
+
+if version > 700
+  set cursorline
+endif
+
 let g:colors_name="drunkcod"
 
 hi Normal guifg=#efefef guibg=#2A2A2A
 
 " highlight groups
 hi Cursor       guibg=#733c5c guifg=#ba3f86
-hi CursorLine	guibg=#303030
-hi CursorColumn	guibg=#464646
+hi CursorLine	guibg=#080808
 
+hi CursorColumn	guibg=#464646
 hi DiffAdd      guifg=#ffcc7f guibg=#a67429 gui=none
 hi DiffChange   guifg=#7fbdff guibg=#425c78 gui=none
 hi DiffText     guifg=#8ae234 guibg=#4e9a06 gui=none
